@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect} from 'react'
-import Link from 'next/Link';
+import Link from 'next/link';
 import { getCategories } from '../services';
 
 
